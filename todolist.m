@@ -4,8 +4,8 @@
 - **Company Name:** Test, Stages,academie football Europe-Asie-Afrique
 - **Directory:** test_stages_academie_football_europe_asie_afrique
 - **Address/Contact:** 
-  - Rue P152, Abidjan, C�te d'Ivoire
-  - Coordonn�es
+  - Rue P152, Abidjan, Céte d'Ivoire
+  - Coordonnées
   - 
   - etsimportexport
   - 
